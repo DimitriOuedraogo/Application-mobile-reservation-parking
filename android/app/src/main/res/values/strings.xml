@@ -1,0 +1,5 @@
+<resources>
+    <!-- Définissez les versions de Firebase Auth -->
+    <string name="firebase_auth_version">4.3.0</string>
+    <string name="firebase_auth_ui_version">7.1.0</string>
+</resources>

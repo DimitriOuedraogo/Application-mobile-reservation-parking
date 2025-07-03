@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988921595413",
+    "project_id": "bdmobile-35e13",
+    "storage_bucket": "bdmobile-35e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988921595413:android:0ababb4d166e5c0acdb01c",
+        "android_client_info": {
+          "package_name": "com.example.projetmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxtLCq5gc2R2TNLicodmcVYxkfcSRHVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
